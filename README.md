@@ -1,11 +1,14 @@
 ## Hi there, I'm Ricardo Fitas! 👋
 
-I'm a student at University of Porto, in Portugal, since 2017, and I do research in fields of Mechanical Engineering, Optimization and Machine Learning.
-More about me:
+I'm a Mechanical Engineering student at University of Porto, in Portugal, since 2017.
+I do research in fields of Mechanical Engineering ⚙️, Optimization and Machine Learning.
 
+More about me:
 - 💼 Internships at INEGI University of Porto, Bosch Termotechnology Aveiro and RWTH Aachen University (ITA and WZL)
-- 💻 [IEEE University of Porto Student Branch](https://ieee.fe.up.pt/) member
+- ⭐ Active member at [IEEE University of Porto Student Branch](https://ieee.fe.up.pt/)
+- 💻 Experient with MATLAB & Python
 - ❤️ I love doing sports & reading books
+- 🧐 Always seeking new things to learn
 - 💬 Ask me about anything [here](https://github.com/ricardofitas/ricardofitas/issues) OR
 - 📧 Email: [rfitas99@gmail.com](rfitas99@gmail.com)
 
