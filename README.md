@@ -1,4 +1,4 @@
-### Hi there, I'm Ricardo Fitas! 👋
+## Hi there, I'm Ricardo Fitas! 👋
 
 You can find me at [LinkedIn](https://www.linkedin.com/in/ricardo-fitas-167bba164/)
 
