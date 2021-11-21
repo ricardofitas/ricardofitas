@@ -1,7 +1,7 @@
 ## Hi there, I'm Ricardo Fitas! 👋
 
 I'm a Mechanical Engineering student at University of Porto, in Portugal, since 2017.
-I do research in fields of Mechanical Engineering ⚙️, Optimization and Machine Learning.
+I do research in the scientific areas of Mechanical Engineering ⚙️, Optimization and Machine Learning.
 
 More about me:
 - 💼 Internships at INEGI University of Porto, Bosch Termotechnology Aveiro and RWTH Aachen University (ITA and WZL)
