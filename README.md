@@ -1,5 +1,9 @@
 ### Hi there, I'm Ricardo Fitas! 👋
 
+You can find me at:
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white [LinkedIn](https://www.linkedin.com/in/ricardo-fitas-167bba164/)
+
 ### Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardofitas&show_icons=true&theme=dark&locale=en" alt="ricardofitas" /></p>
