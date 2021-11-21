@@ -6,7 +6,7 @@ I do research in fields of Mechanical Engineering ⚙️, Optimization and Machi
 More about me:
 - 💼 Internships at INEGI University of Porto, Bosch Termotechnology Aveiro and RWTH Aachen University (ITA and WZL)
 - ⭐ Active member at [IEEE University of Porto Student Branch](https://ieee.fe.up.pt/)
-- 💻 Experient with MATLAB & Python
+- 💻 Experienced in MATLAB & Python
 - ❤️ I love doing sports & reading books
 - 🧐 Always seeking new things to learn
 - 💬 Ask me about anything [here](https://github.com/ricardofitas/ricardofitas/issues) OR
