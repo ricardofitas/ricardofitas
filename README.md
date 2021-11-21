@@ -1,10 +1,12 @@
 ### Hi there, I'm Ricardo Fitas! 👋
 
 You can find me at [LinkedIn](https://www.linkedin.com/in/ricardo-fitas-167bba164/)
+
 My academic profiles:
 - [ORCID](https://orcid.org/0000-0001-5137-2451)
 - [ResearchGate](https://www.researchgate.net/profile/Ricardo-Fitas)
-- 
+
+
 ### Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardofitas&show_icons=true&theme=dark&locale=en" alt="ricardofitas" /></p>
