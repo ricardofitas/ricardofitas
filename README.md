@@ -1,9 +1,10 @@
 ## Hi there, I'm Ricardo Fitas! 👋
 
-I'm a Mechanical Engineering student at University of Porto, in Portugal, since 2017.
-I do research in the scientific areas of Mechanical Engineering ⚙️, Optimization and Machine Learning.
+I'm a Research Associate at Technical University of Munich since 2022
+I do research in the scientific areas of Mechanical Engineering ⚙️, Automation and Optimization.
 
 More about me:
+- 💼 Research Associate at Technical University of Munich
 - 💼 Internships at INEGI University of Porto, Bosch Termotechnology Aveiro and RWTH Aachen University (ITA and WZL)
 - ⭐ Active member at [IEEE University of Porto Student Branch](https://ieee.fe.up.pt/)
 - 💻 Experienced in MATLAB & Python
@@ -15,6 +16,7 @@ More about me:
 You can find me at [LinkedIn](https://www.linkedin.com/in/ricardo-fitas-167bba164/)
 
 My academic profiles:
+- [Google Scholar](https://scholar.google.com/citations?user=r70Opz0AAAAJ&hl=pt-PT&oi=ao)
 - [ORCID](https://orcid.org/0000-0001-5137-2451)
 - [ResearchGate](https://www.researchgate.net/profile/Ricardo-Fitas)
 
