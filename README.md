@@ -1,6 +1,6 @@
 ## Hi there, I'm Ricardo Fitas! 👋
 
-I'm a Research Associate at Technical University of Munich since 2022
+I'm a Research Associate at Technical University of Munich since 2022.
 I do research in the scientific areas of Mechanical Engineering ⚙️, Automation and Optimization.
 
 More about me:
