@@ -1,12 +1,13 @@
 ## Hi there, I'm Ricardo Fitas! 👋
 
-I'm a Research Associate at Technical University of Munich since 2022.
-I do research in the scientific areas of Mechanical Engineering ⚙️, Automation and Optimization.
+I have been a Research Associate at the Technical University of Darmstadt since 2023.
+I do research in the scientific areas of Mechanical Engineering ⚙️, Corrugated Boards and Optimization.
 
 More about me:
-- 💼 Research Associate at Technical University of Munich
-- 💼 Internships at INEGI University of Porto, Bosch Termotechnology Aveiro and RWTH Aachen University (ITA and WZL)
-- ⭐ Active member at [IEEE University of Porto Student Branch](https://ieee.fe.up.pt/)
+- 💼 Research Associate at Technical University of Darmstadt
+- 💼 I am a former Research Associate at Technical University of Munich
+- 💼 I did internships at INEGI University of Porto, Bosch Termotechnology Aveiro and RWTH Aachen University (ITA and WZL)
+- ⭐ I was an active member at [IEEE University of Porto Student Branch](https://ieee.fe.up.pt/)
 - 💻 Experienced in MATLAB & Python
 - ❤️ I love doing sports & reading books
 - 🧐 Always seeking new things to learn
