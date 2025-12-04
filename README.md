@@ -24,30 +24,25 @@ My academic profiles:
 
 ### Stats
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardofitas&show_icons=true&theme=dark"
-        alt="GitHub stats for ricardofitas"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardofitas&layout=compact&theme=dark"
-        alt="Top languages for ricardofitas"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img
-        src="https://streak-stats.demolab.com?user=ricardofitas&theme=dark&hide_border=true"
-        alt="GitHub streak for ricardofitas"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardofitas&show_icons=true&theme=dark"
+    alt="GitHub stats for ricardofitas"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardofitas&layout=compact&theme=dark"
+    alt="Top languages for ricardofitas"
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ricardofitas&theme=dark&hide_border=true"
+    alt="GitHub streak for ricardofitas"
+  />
+</p>
 
 
 
