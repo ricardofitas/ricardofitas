@@ -24,17 +24,27 @@ My academic profiles:
 
 ### Stats
 
-| <a href="https://streak-stats.demolab.com?user=ricardofitas">
-    <img align="center"
-         src="https://streak-stats.demolab.com?user=ricardofitas&theme=dark&hide_border=true"
-         alt="GitHub Streak for ricardofitas" />
-  </a>
-| <a href="https://github-profile-trophy.vercel.app/?username=ricardofitas">
-    <img align="center"
-         src="https://github-profile-trophy.vercel.app/?username=ricardofitas&theme=onedark&no-frame=true&no-bg=true&margin-w=15"
-         alt="GitHub Trophies for ricardofitas" />
-  </a> |
-| ------------- | ------------- |
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img
+          src="https://streak-stats.demolab.com?user=ricardofitas&theme=dark&hide_border=true"
+          alt="GitHub Streak for ricardofitas"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img
+          src="https://github-profile-trophy.vercel.app/?username=ricardofitas&theme=onedark&no-frame=true&no-bg=true&margin-w=15"
+          alt="GitHub Trophies for ricardofitas"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
