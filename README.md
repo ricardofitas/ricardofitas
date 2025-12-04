@@ -22,23 +22,29 @@ My academic profiles:
 - [ResearchGate](https://www.researchgate.net/profile/Ricardo-Fitas)
 
 
+### Stats
+
 <table>
   <tr>
     <td>
-      <a href="https://git.io/streak-stats">
-        <img
-          src="https://streak-stats.demolab.com?user=ricardofitas&theme=dark&hide_border=true"
-          alt="GitHub Streak for ricardofitas"
-        />
-      </a>
+      <img
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardofitas&show_icons=true&theme=dark"
+        alt="GitHub stats for ricardofitas"
+      />
     </td>
     <td>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img
-          src="https://github-profile-trophy.vercel.app/?username=ricardofitas&theme=onedark"
-          alt="GitHub Trophies for ricardofitas"
-        />
-      </a>
+      <img
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardofitas&layout=compact&theme=dark"
+        alt="Top languages for ricardofitas"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img
+        src="https://streak-stats.demolab.com?user=ricardofitas&theme=dark&hide_border=true"
+        alt="GitHub streak for ricardofitas"
+      />
     </td>
   </tr>
 </table>
