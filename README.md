@@ -24,8 +24,9 @@ My academic profiles:
 
 ### Stats
 
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardofitas&show_icons=true&theme=dark&locale=en" alt="ricardofitas" /></p> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardofitas&show_icons=true&theme=dark&locale=en" alt="Top languages" /></a> |
+| <p>&nbsp;<img align="center" src="https://your-stats-instance.vercel.app/api?username=ricardofitas&show_icons=true&theme=dark&locale=en" alt="ricardofitas" /></p> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://your-stats-instance.vercel.app/api/top-langs/?username=ricardofitas&show_icons=true&theme=dark&locale=en" alt="Top languages" /></a> |
 | ------------- | ------------- |
+
 
 
 ![](https://komarev.com/ghpvc/?username=ricardofitas&color=green)
