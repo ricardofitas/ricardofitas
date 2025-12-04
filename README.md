@@ -26,19 +26,6 @@ My academic profiles:
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardofitas&show_icons=true&theme=dark"
-    alt="GitHub stats for ricardofitas"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardofitas&layout=compact&theme=dark"
-    alt="Top languages for ricardofitas"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=ricardofitas&theme=dark&hide_border=true"
     alt="GitHub streak for ricardofitas"
   />
