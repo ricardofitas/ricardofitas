@@ -1,54 +1,46 @@
-## Hi there, I'm Ricardo Fitas! 👋
+# Hi there, I'm Ricardo Fitas! 👋
 
-I have been a Research Associate at the Technical University of Darmstadt since 2023.
-I do research in the scientific areas of Mechanical Engineering ⚙️, Corrugated Boards and Optimization.
+**Physics Expert · Computational Mechanics · Scientific Machine Learning**
 
-More about me:
-- 💼 Research Associate at Technical University of Darmstadt
-- 💼 I am a former Research Associate at Technical University of Munich
-- 💼 I did internships at INEGI University of Porto, Bosch Termotechnology Aveiro and RWTH Aachen University (ITA and WZL)
-- ⭐ I was an active member at [IEEE University of Porto Student Branch](https://ieee.fe.up.pt/)
-- 💻 Experienced in MATLAB & Python
-- ❤️ I love doing sports & reading books
-- 🧐 Always seeking new things to learn
-- 💬 Ask me about anything [here](https://github.com/ricardofitas/ricardofitas/issues) OR
-- 📧 Email: [rfitas99@gmail.com](rfitas99@gmail.com)
+[Website](https://ricardofitas.com/) · [ProjectHub](https://projecthub.ricardofitas.com/) · [Papers](https://ricardofitas.com/papers) · [LinkedIn](https://www.linkedin.com/in/ricardo-fitas-167bba164/) · [Email](mailto:rfitas99@gmail.com)
 
-You can find me at [LinkedIn](https://www.linkedin.com/in/ricardo-fitas-167bba164/)
+I work as a Physics Expert at Mercor, preparing training data for large language models by solving physics problems. My research combines computational mechanics, data science, machine learning, numerical analysis, and optimization.
 
-My academic profiles:
-- [Google Scholar](https://scholar.google.com/citations?user=r70Opz0AAAAJ&hl=pt-PT&oi=ao)
-- [ORCID](https://orcid.org/0000-0001-5137-2451)
-- [ResearchGate](https://www.researchgate.net/profile/Ricardo-Fitas)
+My background includes an MSc in Mechanical Engineering, credentials in Statistics and Data Science from Massachusetts Institute of Technology (MIT), research experience at TU Darmstadt, the Technical University of Munich (TUM), RWTH Aachen University, the University of Porto, and a European research grant through the University of Aveiro.
 
+## Research interests
 
-### Stats
+- Physics-informed Machine Learning — PINNs, scientific-ML, thermodynamics
+- Computational Solid Mechanics — FEM, nonlinear-mechanics, simulation
+- Constitutive Modeling & Multiscale Transfer
+- Engineering Data & Graph-based Models
+- Structural, Multi-objective & Learning-based Optimization
+- Self-Discovery Lab
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ricardofitas&theme=dark&hide_border=true"
-    alt="GitHub streak for ricardofitas"
-  />
-</p>
+## Selected projects
 
+| Project | Focus |
+| --- | --- |
+| [GNN-CB](https://github.com/ricardofitas/GNN-CB) | A trained graph neural surrogate for corrugated-board deformation, with audited experimental graphs, an image-to-graph curation pipeline, trained checkpoints and reproducible evaluation. |
+| [Graph-CB](https://github.com/ricardofitas/Graph-CB) | Graph-Based Characterization of Corrugated Board Compression |
+| [FEM Corrugated Boards](https://github.com/ricardofitas/FEM_Corrugated_Boards) | An Open-Source FEM Software for Corrugated Boards |
+| [Corrugated-board optimization](https://github.com/ricardofitas/Opt_CorrugatedBoards_Sim) | [Results Gallery](https://ricardofitas.github.io/Opt_CorrugatedBoards_Sim/) |
+| [Particle Swarm Methods](https://github.com/ricardofitas/Particle-Swarm-Methods-Parallel-Computing) | Particle Swarm Methods · Parallel Computing |
+| [Unicodex](https://github.com/ricardofitas/unicodex) | Convert a LaTeX formula or a paragraph mixing prose and math into copyable Unicode plain text. |
 
+## Experience
 
+| Organization | Role | Period |
+| --- | --- | --- |
+| Mercor | Physics Expert | Sep 2026–Present |
+| University of Aveiro | EU-funded Research Fellow | Apr–Aug 2026 |
+| TU Darmstadt | Research Associate | Jul 2023–Mar 2026 |
+| Technical University of Munich | Research Associate | Oct 2022–Mar 2023 |
 
+[Experience](https://ricardofitas.com/experience) · [Download CV](https://ricardofitas.com/RicardoFitas_CV.pdf)
 
+## Academic profiles
 
-![](https://komarev.com/ghpvc/?username=ricardofitas&color=green)
+[Google Scholar](https://scholar.google.com/citations?user=r70Opz0AAAAJ) · [ORCID](https://orcid.org/0000-0001-5137-2451) · [ResearchGate](https://www.researchgate.net/profile/Ricardo-Fitas)
 
-<!--
-**ricardofitas/ricardofitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 [rfitas99@gmail.com](mailto:rfitas99@gmail.com)
